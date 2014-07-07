@@ -1,0 +1,14 @@
+Ubuntu Linux Installation process
+
+1.	Download Ubuntu version 14.04 from www.ubuntu.com/download
+2.	Download the Universal USB installer package from http://www.techspot.com/downloads/6153-universal-usb-installer.html
+3.	Plug the USB storage device of your choice into the computer you are currently using. 
+4.	Run the USB installer which will upload Ubuntu onto the USB storage device.
+5.	Safely eject the USB device once it is completely done transferring data.
+6.	Plug the USB device into the empty computer and start up the machine.
+7.	After about a minute, an Ubuntu install window will appear on the screen. Select a language (English) and click install.
+8.	Select TimeZone (Pacific Standard Time).
+9.	Select keyboard language layout (English).
+10.	Create a user account and password.
+11.	Restart computer after installation is complete. Remove USB from computer.
+12.	The machine will have some default applications, including Firefox (browser), LibreOffice Writer (word processor), LibreOffice Impress (presentation maker), calculator, Files (finder), Amazon, Thunderbird mail, Rythmbox (music player), Videos, photo viewer, and the Ubuntu software center (app store).
